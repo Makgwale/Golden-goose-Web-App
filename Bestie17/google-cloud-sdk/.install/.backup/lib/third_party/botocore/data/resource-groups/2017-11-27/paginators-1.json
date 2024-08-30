@@ -1,22 +1,3 @@
-{
-  "pagination": {
-    "ListGroups": {
-      "result_key": ["GroupIdentifiers", "Groups"],
-      "output_token": "NextToken",
-      "input_token": "NextToken",
-      "limit_key": "MaxResults"
-    },
-    "SearchResources": {
-      "result_key": "ResourceIdentifiers",
-      "output_token": "NextToken",
-      "input_token": "NextToken",
-      "limit_key": "MaxResults"
-    },
-    "ListGroupResources": {
-      "result_key": "ResourceIdentifiers",
-      "output_token": "NextToken",
-      "input_token": "NextToken",
-      "limit_key": "MaxResults"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a74f25dcdf61a027707ca41f0f2403e6ce2ad4b2686ae9b08c7fc841a2429c98
+size 560

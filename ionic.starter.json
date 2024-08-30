@@ -1,12 +1,3 @@
-{
-  "name": "Blank Starter",
-  "baseref": "main",
-  "tarignore": [
-    "node_modules",
-    "package-lock.json",
-    "www"
-  ],
-  "scripts": {
-    "test": "npm run build && npm run test.unit -- --watch=false && npm i --no-save concurrently && ./node_modules/.bin/concurrently \"npm run dev\" \"npm run test.e2e\" --kill-others --success first"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ccb04bc7ed5e649e934af08c5c111a4873923e31dccb4d359346738576ffe80
+size 349

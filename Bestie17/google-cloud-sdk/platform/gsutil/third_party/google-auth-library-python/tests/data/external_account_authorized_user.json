@@ -1,9 +1,3 @@
-{
-    "type": "external_account_authorized_user",
-    "audience": "//iam.googleapis.com/locations/global/workforcePools/$WORKFORCE_POOL_ID/providers/$PROVIDER_ID",
-    "refresh_token": "refreshToken",
-    "token_url": "https://sts.googleapis.com/v1/oauth/token",
-    "token_info_url": "https://sts.googleapis.com/v1/instrospect",
-    "client_id": "clientId",
-    "client_secret": "clientSecret"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f991a57e29487463024aa17b4ff5b7a8024435b9168c9cfa9f511064ce1c3104
+size 397

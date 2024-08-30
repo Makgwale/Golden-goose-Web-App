@@ -1,6 +1,3 @@
-{
-  "client_id": "123",
-  "client_secret": "secret",
-  "refresh_token": "alabalaportocala",
-  "type": "authorized_user"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5354ca2af0ecf17e81f7ac469318d720684c51c11bb2569ccf0cb48a4223f5a1
+size 122

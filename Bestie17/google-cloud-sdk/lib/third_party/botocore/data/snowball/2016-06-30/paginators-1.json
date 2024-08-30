@@ -1,34 +1,3 @@
-{
-  "pagination": {
-    "ListJobs": {
-      "limit_key": "MaxResults",
-      "output_token": "NextToken",
-      "input_token": "NextToken",
-      "result_key": "JobListEntries"
-    },
-    "DescribeAddresses": {
-      "limit_key": "MaxResults",
-      "output_token": "NextToken",
-      "input_token": "NextToken",
-      "result_key": "Addresses"
-    },
-    "ListClusterJobs": {
-      "input_token": "NextToken",
-      "limit_key": "MaxResults",
-      "output_token": "NextToken",
-      "result_key": "JobListEntries"
-    },
-    "ListClusters": {
-      "input_token": "NextToken",
-      "limit_key": "MaxResults",
-      "output_token": "NextToken",
-      "result_key": "ClusterListEntries"
-    },
-    "ListCompatibleImages": {
-      "input_token": "NextToken",
-      "limit_key": "MaxResults",
-      "output_token": "NextToken",
-      "result_key": "CompatibleImages"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:56cd994875be1b5cd0d21298c9374ff5d3acb14007e446bb691ccd173d8eea5c
+size 878

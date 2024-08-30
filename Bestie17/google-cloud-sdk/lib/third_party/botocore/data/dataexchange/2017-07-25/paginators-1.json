@@ -1,28 +1,3 @@
-{
-  "pagination": {
-    "ListDataSetRevisions": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "limit_key": "MaxResults",
-      "result_key": "Revisions"
-    },
-    "ListDataSets": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "limit_key": "MaxResults",
-      "result_key": "DataSets"
-    },
-    "ListJobs": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "limit_key": "MaxResults",
-      "result_key": "Jobs"
-    },
-    "ListRevisionAssets": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "limit_key": "MaxResults",
-      "result_key": "Assets"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2ddca43f185fc4439d5531847ab037571bb64ad1580443c35a502062fef6f10
+size 678

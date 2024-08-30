@@ -1,21 +1,3 @@
-{
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
-  "icons": [
-    {
-      "src": "assets/icon/favicon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "assets/icon/icon.png",
-      "type": "image/png",
-      "sizes": "512x512",
-      "purpose": "maskable"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e827b0b9af6ac174fcae4d122f98c25f5449c69e79b3af9b48d89fe0deb43f4f
+size 438

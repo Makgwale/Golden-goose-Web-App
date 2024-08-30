@@ -1,10 +1,3 @@
-{
-  "pagination": {
-    "ListTagsForResource": {
-      "input_token": "NextToken",
-      "limit_key": "MaxResults",
-      "output_token": "NextToken",
-      "result_key": "Tags"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4bac1ab790435390cfaaf53cc11d2424bf08803a7d3ac1f16d3375f2832a254
+size 190

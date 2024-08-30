@@ -1,6 +1,3 @@
-{
-    "libs": {
-        "ecp_client": "/path/to/signer/lib",
-        "tls_offload": "/path/to/offload/lib"
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:488cb40d46531576544ca4b0494b20aa96b34970c1c9ea074ffd8c699d3ebf39
+size 115

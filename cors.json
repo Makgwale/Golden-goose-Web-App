@@ -1,8 +1,3 @@
-[
-    {
-        "origin": ["*"], 
-        "method": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-        "responseHeader": ["Content-Type"],
-        "maxAgeSeconds": 3600
-    }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:62956219c7ff16fc499ba5ac65a23b55401337d99741c4a3fe918b1813342fab
+size 179

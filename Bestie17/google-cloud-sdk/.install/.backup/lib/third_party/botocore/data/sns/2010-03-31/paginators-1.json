@@ -1,34 +1,3 @@
-{
-  "pagination": {
-    "ListEndpointsByPlatformApplication": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "result_key": "Endpoints"
-    },
-    "ListPlatformApplications": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "result_key": "PlatformApplications"
-    },
-    "ListSubscriptions": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "result_key": "Subscriptions"
-    },
-    "ListSubscriptionsByTopic": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "result_key": "Subscriptions"
-    },
-    "ListTopics": {
-      "input_token": "NextToken",
-      "output_token": "NextToken",
-      "result_key": "Topics"
-    },
-    "ListPhoneNumbersOptedOut": {
-      "input_token": "nextToken",
-      "output_token": "nextToken",
-      "result_key": "phoneNumbers"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a5dc392fe1e73a9448497587ff13df80f9f6451e7843762dfef816502ea9ba
+size 885

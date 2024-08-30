@@ -1,13 +1,3 @@
-{
-  "config_suffix": "",
-  "disable_updater": false,
-  "disable_usage_reporting": true,
-  "documentation_url": "https://cloud.google.com/sdk/",
-  "release_channel": "rapid",
-  "release_notes_url": "https://cloud.google.com/sdk/release_notes",
-  "revision": 20231110155547,
-  "snapshot_schema_version": 3,
-  "snapshot_url": "https://dl.google.com/dl/cloudsdk/channels/rapid/components-2.json",
-  "user_agent": "google-cloud-sdk",
-  "version": "455.0.0"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4177cb8c85c0c62755c1418a7a778cd3b6ea390a789767d86f222763c3454004
+size 453
