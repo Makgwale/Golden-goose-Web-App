@@ -1,0 +1,72 @@
+/* ListenToBook.css */
+
+/* Container for the entire page */
+.listen-to-book-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center align the items vertically */
+    justify-content: center; /* Center align the items horizontally */
+    padding: 20px;
+  }
+  
+  
+  /* Style for the book cover image */
+  .audio-player {
+    width: 100%; /* Full width of the container */
+  }
+  
+  /* Styles for the audio controls */
+  .audio-controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .audio-controls button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .audio-controls button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles for the progress bar */
+  .progress-bar {
+    width: 100%;
+    height: 5px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+  }
+  
+  .progress-bar input[type="range"] {
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  /* Modify the thumb of the range input */
+  .progress-bar input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #007bff;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .progress-bar input[type="range"]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background: #007bff;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
